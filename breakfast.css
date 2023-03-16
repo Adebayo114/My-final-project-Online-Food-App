@@ -1,0 +1,43 @@
+
+  .bf{
+    display: flex;
+    text-align: start;
+    background-color: orange;
+    margin: 0px;
+    border: 8px solid skyblue;
+  }
+  .ru{
+    margin-left: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
+    text-align: end;
+    background-color: orange;
+    justify-content: end;
+  }
+  
+  .gh{
+    background-color: orange;
+    display:flex;
+    border: 10px solid lightblue;
+  }
+  
+  .SF{
+    background-color: orange;
+    display:flex;
+    border: 5px solid lightblue;
+  }
+  
+  p{
+  background-color: white;
+    
+  }
+
+  .nm{
+    display: flex;
+    text-align: start;
+    background-color:skyblue;
+    margin: 0px;
+    border: 10px solid orange;
+  }

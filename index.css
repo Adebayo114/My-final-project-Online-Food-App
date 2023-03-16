@@ -1,0 +1,83 @@
+body{
+  background-color: orange;
+}
+select{
+    color:black;
+    background-color:orange;
+  }
+  
+  .re{
+    display: flex; 
+    text-align: start;
+    background-color: orange;
+    margin: 5px;
+  justify-content: space-evenly;
+  height: 50px;
+  width: 1900px;
+  border: 2px solid skyblue;
+  }
+
+  
+  .cy{
+    background-color:skyblue;
+    color: orange;
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+    align-items: center;
+  }
+  a:hover{
+    color: aqua;
+}
+a:active{
+  color: rgb(70, 167, 216);
+}
+
+ 
+  .ru{
+    margin-left:auto;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    border: 2px solid red;
+    /* text-align: end; */
+    background-color: orange;
+    justify-content: space-evenly;
+  }
+  
+   .gh{
+     background-color:lightblue;
+    display:flex;
+    border: 5px solid lightblue; 
+  }
+   
+   .lo{
+     background-color:lightblue;
+    display:flex;
+    border: 5px solid orange; 
+  }
+   /* all for price tag section */
+  p{
+  background-color:rgb(70, 167, 216);
+  border: 2px solid orange; 
+  }
+  p:hover{
+    color:orange;
+  }
+  
+p:active{
+  color: aqua;
+}
+/* closing */
+a:active{
+    color: brown;
+}
+  
+
+
+  .ol{
+    background-color: orange;
+    display:flex;
+    border: 5px solid lightblue;
+  }
+

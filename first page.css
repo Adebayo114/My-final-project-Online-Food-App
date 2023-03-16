@@ -1,0 +1,53 @@
+.pj{
+    background-color: aqua;
+    text-align: center;
+    font-size: large;
+   border-radius: 15px;
+   height: 50px;
+}
+.pj:hover{
+    background-size: 100%;
+    color: brown;
+}
+a:hover{
+    color:lightgreen;
+}
+
+a:active{
+    color: blue;
+}
+body{
+    background-color: orange;
+}
+.name{
+    padding-left: 400px;
+    width: 1150px;
+}
+/* .op{
+    display: grid;
+}
+
+.po{
+display: flex;
+justify-content: center;
+}
+
+.fh{
+float:right;
+}
+
+.nf{
+/* margin-top:100px ; 
+float: right;
+} */
+
+.op{
+    float: right;
+    padding-right:50px;
+}
+
+.fh{
+    float: left;
+    padding-left:50px ;
+}
+
