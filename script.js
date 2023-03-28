@@ -15,3 +15,6 @@
 // return "hello" + name;
 // }
 
+console.log("Hello, World!");
+console.log("")
+console.log('JavaScript');

@@ -16,6 +16,7 @@ select{
   width: 1900px;
   border: 2px solid skyblue;
   }
+  
 
   
   .cy{
@@ -59,7 +60,8 @@ a:active{
    /* all for price tag section */
   p{
   background-color:rgb(70, 167, 216);
-  border: 2px solid orange; 
+  border: 2px solid black;
+  text-align: center;
   }
   p:hover{
     color:orange;

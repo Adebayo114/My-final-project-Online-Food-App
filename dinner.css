@@ -1,3 +1,18 @@
+
+nav{
+  display:flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: orange ;
+  height: 60px;
+  border: 1px solid red;
+}
+
+.logo{
+  height: 60px;
+  
+}
+
 .il{background-color: orange;
     display:flex;
     border: 5px solid lightblue; 
@@ -5,6 +20,9 @@
 
   p{
     background-color: white;
+  border: 2px solid black;
+  text-align: center;
+
   }
   p:hover{
     color:orange;

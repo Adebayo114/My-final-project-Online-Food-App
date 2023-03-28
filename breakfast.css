@@ -1,4 +1,18 @@
 
+nav{
+  display:flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: orange ;
+  height: 60px;
+  border: 1px solid red;
+}
+
+.logo{
+  height: 60px;
+  
+}
+
   .bf{
     display: flex;
     text-align: start;
